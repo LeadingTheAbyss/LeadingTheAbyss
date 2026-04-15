@@ -52,7 +52,6 @@ I actively practice competitive programming with a strong focus on problem solvi
     <img src="https://img.shields.io/badge/Codeforces-Masochistic-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
----
 
 ## LeetCode Activity
 
