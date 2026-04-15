@@ -49,8 +49,13 @@ I actively practice competitive programming with a strong focus on problem solvi
 
 <p align="center">
   <a href="https://codeforces.com/profile/Masochistic">
-    <img src="https://img.shields.io/badge/Codeforces-Masochistic-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Handle-Masochistic-1F8ACB?style=for-the-badge" />
   </a>
+  <a href="https://codeforces.com/profile/Masochistic">
+    <img src="https://img.shields.io/badge/Platform-Codeforces-FFB000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Current%20Rating-1603-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Max%20Rank-Expert-6f42c1?style=for-the-badge" />
 </p>
 
 ## LeetCode Activity
