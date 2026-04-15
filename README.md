@@ -66,7 +66,7 @@ Machine Learning, Computer Vision, NLP, Information Retrieval, Trustworthy AI, F
 
 ---
 
-## Selected Projects
+## Projects
 
 ### TruthScope — Evidence-Aware Fact Checking  
 **Python, Flask, React, PostgreSQL, OCR, REST API**
