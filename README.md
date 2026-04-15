@@ -49,10 +49,9 @@ I actively practice competitive programming with a strong focus on problem solvi
 
 <p align="center">
   <a href="https://codeforces.com/profile/Masochistic">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Masochistic&theme=light&disable_animations=false&show_icons=true&force_username=true" />
+    <img src="https://img.shields.io/badge/Codeforces-Masochistic-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## LeetCode Activity
