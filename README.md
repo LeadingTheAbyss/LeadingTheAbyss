@@ -1,4 +1,4 @@
-<h1 align="center">leadingtheabyss</h1>
+<h1 align="center">LeadingTheAbyss</h1>
 
 <p align="center">
   <strong>Competitive Programmer</strong><br>
@@ -28,8 +28,7 @@
 I actively practice competitive programming with a strong focus on problem solving, implementation quality, and algorithmic depth.
 
 - **Codeforces:** [Masochistic](https://codeforces.com/profile/Masochistic)
-- **LeetCode:** [leadingtheabyss](https://leetcode.com/u/leadingtheabyss/)
-- **Core Areas:** Greedy, Mathematics, Implementation, Constructive Algorithms, Dynamic Programming
+- **LeetCode:** [LeadingTheAbyss](https://leetcode.com/u/leadingtheabyss/)
 
 ---
 
