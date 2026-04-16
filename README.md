@@ -9,9 +9,6 @@
   <a href="https://github.com/leadingtheabyss">
     <img src="https://img.shields.io/badge/GitHub-leadingtheabyss-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://codeforces.com/profile/Masochistic">
-    <img src="https://img.shields.io/badge/Codeforces-Masochistic-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/leadingtheabyss/">
     <img src="https://img.shields.io/badge/LeetCode-leadingtheabyss-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
@@ -27,7 +24,6 @@
 
 I actively practice competitive programming with a strong focus on problem solving, implementation quality, and algorithmic depth.
 
-- **Codeforces:** [Masochistic](https://codeforces.com/profile/Masochistic)
 - **LeetCode:** [LeadingTheAbyss](https://leetcode.com/u/leadingtheabyss/)
 
 ---
