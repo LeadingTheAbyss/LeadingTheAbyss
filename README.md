@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Competitive Programmer</strong><br>
-  Machine Learning Enthusiast
+  <strong>AIML Enthusiast</strong><br>
+  <strong>Building Scalable Web & AI Systems</strong>
 </p>
 
 <p align="center">
