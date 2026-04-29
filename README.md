@@ -103,14 +103,14 @@ I actively practice competitive programming with a strong focus on problem solvi
 
 ## Projects
 
-### TaskFlow — Scalable Notification & Task Processing System
+### TaskFlow : Scalable Notification & Task Processing System
 **Python, FastAPI, Celery, Redis, PostgreSQL, Docker, React**
 
 - **Distributed Architecture:** Engineered an event-driven microservices backend decoupling synchronous REST APIs from resource-intensive background workloads, eliminating HTTP bottlenecks during high-throughput data ingestion.
 - **Task Orchestration & Message Queuing:** Integrated Redis as an in-memory message broker to manage atomic queue locking, utilizing Celery worker nodes to guarantee at-least-once task execution for external webhook dispatching.
 - **Telemetry & Containerization:** Containerized the full end-to-end cluster using Docker Compose and developed a React/Vite frontend dashboard utilizing Tailwind CSS to visualize real-time task throughput and worker loads.
 
-### TruthScope — Evidence-Aware Fact Checking  
+### TruthScope : Evidence-Aware Fact Checking  
 **Python, Flask, React, PostgreSQL, OCR, REST API**
 
 - **Claim Verification Pipeline:** Designed and implemented a real-time fact-checking pipeline for verifying user-provided claims from text and images, combining OCR-based claim extraction, backend processing, and structured result storage for later analysis.
