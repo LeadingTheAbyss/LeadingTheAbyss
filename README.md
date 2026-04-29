@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <em>Focused on problem solving, machine learning systems, and end-to-end product building.</em>
+  <em>Focused on competitive programming, scalable systems, AI-driven applications, and end-to-end product building.</em>
 </p>
 
 ---
@@ -52,18 +52,63 @@ I actively practice competitive programming with a strong focus on problem solvi
 
 ## Technical Skills
 
-**Languages**  
-C++, C, Python, JavaScript, HTML, CSS
+<h3 align="center">Tech Stack</h3>
 
-**Frameworks and Tools**  
-React, Flask, PyTorch, OpenCV, Git, GitHub, Docker
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**Areas of Interest**  
-Machine Learning, Computer Vision, NLP, Information Retrieval, Trustworthy AI, Full-Stack Development
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<h4 align="center">Backend & APIs</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
+
+<h4 align="center">Databases & Cache</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+<h4 align="center">AI / ML & Computer Vision</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<h4 align="center">DevOps & Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## Projects
+
+### TaskFlow — Scalable Notification & Task Processing System
+**Python, FastAPI, Celery, Redis, PostgreSQL, Docker, React**
+
+- **Distributed Architecture:** Engineered an event-driven microservices backend decoupling synchronous REST APIs from resource-intensive background workloads, eliminating HTTP bottlenecks during high-throughput data ingestion.
+- **Task Orchestration & Message Queuing:** Integrated Redis as an in-memory message broker to manage atomic queue locking, utilizing Celery worker nodes to guarantee at-least-once task execution for external webhook dispatching.
+- **Telemetry & Containerization:** Containerized the full end-to-end cluster using Docker Compose and developed a React/Vite frontend dashboard utilizing Tailwind CSS to visualize real-time task throughput and worker loads.
 
 ### TruthScope — Evidence-Aware Fact Checking  
 **Python, Flask, React, PostgreSQL, OCR, REST API**
