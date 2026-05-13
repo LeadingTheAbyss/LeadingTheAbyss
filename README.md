@@ -35,10 +35,6 @@ I actively practice competitive programming with a strong focus on problem solvi
   <img src="https://komarev.com/ghpvc/?username=leadingtheabyss&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leadingtheabyss&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leadingtheabyss&layout=compact&hide_border=true" height="170" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leadingtheabyss&hide_border=true" />
