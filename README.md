@@ -4,7 +4,7 @@
 <h1 align="center">LeadingTheAbyss</h1>
 <p align="center">
   <strong>Competitive Programmer</strong><br>
-  <strong>AIML Enthusiast</strong><br>
+  <strong>Artificial Intelligence & Machine Learning Engineer</strong><br>
   <strong>Building Scalable Web & AI Systems</strong>
 </p>
 
@@ -94,25 +94,114 @@
 
 ---
 
-## Projects
+<h2 align="center">Projects</h2>
 
-### TaskFlow : Scalable Notification & Task Processing System
-**Python, FastAPI, Celery, Redis, PostgreSQL, Docker, React**
+<br>
 
-- **Distributed Architecture:** Engineered an event-driven microservices backend decoupling synchronous REST APIs from resource-intensive background workloads, eliminating HTTP bottlenecks during high-throughput data ingestion.
-- **Task Orchestration & Message Queuing:** Integrated Redis as an in-memory message broker to manage atomic queue locking, utilizing Celery worker nodes to guarantee at-least-once task execution for external webhook dispatching.
-- **Telemetry & Containerization:** Containerized the full end-to-end cluster using Docker Compose and developed a React/Vite frontend dashboard utilizing Tailwind CSS to visualize real-time task throughput and worker loads.
+<div align="center">
 
-### TruthScope : Evidence-Aware Fact Checking  
-**Python, Flask, React, PostgreSQL, OCR, REST API**
+<img
+ src="https://github.com/user-attachments/assets/537eec99-de1f-45d6-b9b9-16aa81f590a6"
+ width="250"
+ alt="BrewPlans"
+/>
 
-- **Claim Verification Pipeline:** Designed and implemented a real-time fact-checking pipeline for verifying user-provided claims from text and images, combining OCR-based claim extraction, backend processing, and structured result storage for later analysis.
-- **System Design and Retrieval Workflow:** Built backend APIs in Flask to support text-based claim verification, evidence-driven response generation, and persistence of past fact-check outcomes, enabling comparison and review of earlier verification results.
-- **Interface for Analysis:** Developed a React-based interface and dashboard for submitting claims, inspecting verification outputs, and revisiting historical results, making the system usable for iterative experimentation and workflow evaluation.
+  <h3>Travel Planner, Recommendations & Blog Writing Website</h3>
 
-### Visual Authenticity Classifier System  
-**Python, PyTorch, Flask, CNN, Grad-CAM**
+  <p>
+    A smart travel planning platform that brings
+    <b>transport, stays, places, budgets, and itineraries</b>
+    together in one place.
+  </p>
 
-- **Model Development:** Trained and evaluated a ResNet18-based binary image classifier for distinguishing authentic and AI-generated images, achieving 95.8% validation accuracy on a balanced dataset of 200K+ samples.
-- **Dataset Curation:** Constructed and cleaned a multi-source dataset by removing noisy, low-quality, grayscale, and ambiguous samples, improving data consistency and reducing sources of spurious learning.
-- **Interpretability and Deployment:** Integrated Grad-CAM visualizations to inspect prediction-driving regions and deployed the model through a Flask-based inference interface for image upload, prediction, and qualitative analysis of model behavior.
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" />
+    <img src="https://github.com/user-attachments/assets/314aef9f-7a89-4f2f-9dc3-ed96cf1610d8" width="32" />
+    <img src="https://github.com/user-attachments/assets/5b32992c-18be-4b3b-b36c-96f5b936e275" width="32" />
+  </p>
+
+  <a href="https://brewplans.com">
+    <b>Our Platform</b>
+  </a>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+<img
+ src="https://github.com/user-attachments/assets/377db764-afd1-4302-b3a4-3c84d4a514a6"
+ width="250"
+ alt="Vakya"
+/>
+
+  <h3>Vakya</h3>
+
+  <p>
+    An AI-powered contract assistant for
+    <b>analyzing, understanding, and interacting with complex legal documents</b>.
+  </p>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
+    <img src="https://github.com/user-attachments/assets/eda89f10-3877-4fc3-9a16-8e2ac52fbd12" width="32" />
+    <img src="https://github.com/user-attachments/assets/3b70dbf1-13d7-4933-bc8b-f4e1a9732179" width="32" />
+    <img src="https://github.com/user-attachments/assets/968a55fd-d33e-4db7-aa8b-985fe2f94c5a" width="32" />
+  </p>
+
+  <a href="https://vakyalegalai.vercel.app/">
+    <b>Live Demo</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/LeadingTheAbyss/Vakya">
+    <b>GitHub</b>
+  </a>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+<img
+ src="https://github.com/user-attachments/assets/554ec2a3-f172-46a2-8551-fea0a814ad3f"
+ width="255"
+ alt="TaskFlow"
+/>
+
+  <h3>TaskFlow</h3>
+
+  <p>
+    A distributed task and notification processing system
+    built for <b>asynchronous workers, queues, caching,
+    and scalable backend processing</b>.
+  </p>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" />
+  </p>
+
+  <a href="https://github.com/LeadingTheAbyss/TaskFlow">
+    <b>GitHub</b>
+  </a>
+
+</div>
