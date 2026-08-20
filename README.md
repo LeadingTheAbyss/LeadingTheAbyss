@@ -1,31 +1,16 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b9894ae-128c-4d15-91d9-e4bfb71267b1" width="100%" alt="Sung Jin-Woo" />
+</p>
 <h1 align="center">LeadingTheAbyss</h1>
-
 <p align="center">
   <strong>Competitive Programmer</strong><br>
   <strong>AIML Enthusiast</strong><br>
   <strong>Building Scalable Web & AI Systems</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/leadingtheabyss">
-    <img src="https://img.shields.io/badge/GitHub-leadingtheabyss-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/leadingtheabyss/">
-    <img src="https://img.shields.io/badge/LeetCode-leadingtheabyss-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Focused on competitive programming, scalable systems, AI-driven applications, and end-to-end product building.</em>
-</p>
-
----
-
-## Competitive Programming
-
-I actively practice competitive programming with a strong focus on problem solving, implementation quality, and algorithmic depth.
-
-- **LeetCode:** [LeadingTheAbyss](https://leetcode.com/u/leadingtheabyss/)
+| [LeetCode](https://leetcode.com/u/leadingtheabyss/) | [CodeChef](https://www.codechef.com/users/LeadingAbyss) | [AtCoder](https://atcoder.jp/users/LeadingTheAbyss) | [X](https://x.com/LeadingTheAbyss) |
+| --- | --- | --- | --- |
+| [![LeetCode](https://github.com/user-attachments/assets/fa1b3b00-c82a-4a43-a369-7afd57967fe4)](https://leetcode.com/u/leadingtheabyss/) | [![CodeChef](https://github.com/user-attachments/assets/d9331dbc-03ce-4abd-b878-552149bbe543)](https://www.codechef.com/users/LeadingAbyss) | [![AtCoder](https://github.com/user-attachments/assets/278b13df-d8a9-4787-8846-c3ad4220ffde)](https://atcoder.jp/users/LeadingTheAbyss) | [![X](https://github.com/user-attachments/assets/62920387-6b5d-4127-9448-1fb3571624c8)](https://x.com/LeadingTheAbyss) |
 
 ---
 
@@ -50,53 +35,47 @@ I actively practice competitive programming with a strong focus on problem solvi
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-<h3 align="center">Tech Stack</h3>
+### Languages
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
 </p>
 
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### Full Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
 </p>
 
-<h4 align="center">Backend & APIs</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-<h4 align="center">Databases & Cache</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+### AI / ML
 
-<h4 align="center">AI / ML & Computer Vision</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-<h4 align="center">DevOps & Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eda89f10-3877-4fc3-9a16-8e2ac52fbd12" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/3b70dbf1-13d7-4933-bc8b-f4e1a9732179" width="40" height="40" />
+  <img src="https://github.com/user-attachments/assets/968a55fd-d33e-4db7-aa8b-985fe2f94c5a" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
 </p>
 
 ---
