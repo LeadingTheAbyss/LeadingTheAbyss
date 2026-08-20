@@ -16,14 +16,28 @@
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leadingtheabyss&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+<div align="center">
 
+<a href="https://github.com/LeadingTheAbyss">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=LeadingTheAbyss&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+    height="180"
+  />
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leadingtheabyss&hide_border=true" />
-</p>
+<a href="https://github.com/LeadingTheAbyss">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeadingTheAbyss&layout=compact&langs_count=8&theme=radical"
+    height="180"
+  />
+</a>
+
+<br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LeadingTheAbyss&theme=radical"
+  height="180"
+/>
 
 ---
 
@@ -39,7 +53,7 @@
 
 ### Languages
 
-<p align="left">
+<p align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -49,7 +63,7 @@
 
 ### Full Stack
 
-<p align="left">
+<p align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
@@ -59,7 +73,7 @@
 
 ### Databases & Infrastructure
 
-<p align="left">
+<p align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
@@ -70,7 +84,7 @@
 
 ### AI / ML
 
-<p align="left">
+<p align="centre">
   <img src="https://github.com/user-attachments/assets/eda89f10-3877-4fc3-9a16-8e2ac52fbd12" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/3b70dbf1-13d7-4933-bc8b-f4e1a9732179" width="40" height="40" />
   <img src="https://github.com/user-attachments/assets/968a55fd-d33e-4db7-aa8b-985fe2f94c5a" width="40" height="40" />
