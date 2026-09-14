@@ -38,6 +38,8 @@
   <img src="./profile/streak.svg" alt="GitHub Streak">
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=leadingtheabyss&color=red)
+
 ---
 
 ## LeetCode Activity
