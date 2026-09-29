@@ -10,7 +10,7 @@
 
 | [LeetCode](https://leetcode.com/u/leadingtheabyss/) | [CodeChef](https://www.codechef.com/users/LeadingAbyss) | [AtCoder](https://atcoder.jp/users/LeadingTheAbyss) | [X](https://x.com/LeadingTheAbyss) |
 | --- | --- | --- | --- |
-| [![LeetCode](https://github.com/user-attachments/assets/fa1b3b00-c82a-4a43-a369-7afd57967fe4)](https://leetcode.com/u/leadingtheabyss/) | [![CodeChef](https://github.com/user-attachments/assets/d9331dbc-03ce-4abd-b878-552149bbe543)](https://www.codechef.com/users/LeadingAbyss) | [![AtCoder](https://github.com/user-attachments/assets/278b13df-d8a9-4787-8846-c3ad4220ffde)](https://atcoder.jp/users/LeadingTheAbyss) | [![X](https://github.com/user-attachments/assets/62920387-6b5d-4127-9448-1fb3571624c8)](https://x.com/LeadingTheAbyss) |
+| [![LeetCode](https://github.com/user-attachments/assets/fa1b3b00-c82a-4a43-a369-7afd57967fe4)](https://leetcode.com/u/leadingtheabyss/) | [![CodeChef](https://github.com/user-attachments/assets/54441573-f495-4623-9abb-0e86435111fa)](https://www.codechef.com/users/LeadingAbyss) | [![AtCoder](https://github.com/user-attachments/assets/278b13df-d8a9-4787-8846-c3ad4220ffde)](https://atcoder.jp/users/LeadingTheAbyss) | [![X](https://github.com/user-attachments/assets/62920387-6b5d-4127-9448-1fb3571624c8)](https://x.com/LeadingTheAbyss) |
 
 ---
 
